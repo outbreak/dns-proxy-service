@@ -1,0 +1,16 @@
+{
+  "name": "dns-proxy-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Dudin <dima.dudin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "dnsd": "^0.9.6"
+  }
+}
